@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhagyadev</h1>
 
 <h3 align="center">A  back end developer</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Bhagyadevkp alt=rahuldkjain/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Bhagyadevkp alt=dev/> </p>
 
 
 
