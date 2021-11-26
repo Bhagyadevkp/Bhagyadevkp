@@ -9,7 +9,7 @@
 - 👀 I’m interested in programming and development
 - 🌱 I’m currently learning django and js
 - 💞️ I’m looking to collaborate with good people
-- 📫 Reachme via bhagyadevkp@gmail.com
+- 📫 Reach me via bhagyadevkp@gmail.com
 
 <!-- ### Connect with me:
 
