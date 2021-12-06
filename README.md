@@ -7,7 +7,7 @@
 
 
 - 👀 I’m interested in programming and development
-- 🌱 I’m currently learning django and js
+- 🌱 I’m currently learning all languages, mainly focusing on python.
 - 💞️ I’m looking to collaborate with good people
 - 📫 Reach me via bhagyadevkp@gmail.com
 
